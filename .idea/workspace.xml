@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5868f2f-6f75-4abd-ab8a-408b53b49305" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/controllers/messagesController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/usersController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/formation-nodejs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/formation-nodejs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../express-mongo-04/src/routes/contactsRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/../express-mongo-04/src/routes/contactsRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/projet-01-gestion-videos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/config/passport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/controllers/ideesController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/controllers/usersController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/db/database.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/models/Idee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/models/User.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/css/app.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/css/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/css/foundation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/css/foundation.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/images/Logo_Messages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/images/pngkey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/images/video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/js/vendor/foundation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/js/vendor/foundation.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/js/vendor/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/public/js/vendor/what-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/routes/accueil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/routes/apropos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/routes/idees.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/routes/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/views/accueil.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/views/apropos.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/views/idees/ajouter.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/views/idees/editer.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/views/idees/liste.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/views/layout.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/views/partials/_errors.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/views/partials/_msg.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/views/partials/_navbar.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/views/users/login.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet-01-gestion-videos/src/views/users/register.hbs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable path="D:\composer\composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven-repos" />
+        <option name="mavenHome" value="C:/Maven" />
+        <option name="userSettingsFile" value="C:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1afLbApxCqheBSU0DjLK6fG3QCo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5868f2f-6f75-4abd-ab8a-408b53b49305" name="Default Changelist" comment="" />
+      <created>1587121770365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587121770365</updated>
+      <workItem from="1587121771843" duration="30000" />
+      <workItem from="1587123202860" duration="1731000" />
+      <workItem from="1587128905925" duration="42000" />
+      <workItem from="1587129163653" duration="784000" />
+      <workItem from="1587130628853" duration="1265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
