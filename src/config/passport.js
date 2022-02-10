@@ -1,4 +1,4 @@
-// Crée par Joachim Zadi le 15/04/2020 à 15:58
+// Passport module 
 // ===========================================
 
 const LocalStrategy = require("passport-local").Strategy;
