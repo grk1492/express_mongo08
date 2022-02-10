@@ -1,5 +1,3 @@
-﻿// Crée par Joachim Zadi le 14/04/2020 à 09:19
-// ===========================================
 
 const mongoose = require("mongoose");
 const moment = require("moment");
