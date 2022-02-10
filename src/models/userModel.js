@@ -1,5 +1,3 @@
-// Crée par Joachim Zadi le 15/04/2020 à 13:54
-// ===========================================
 
 const mongoose = require("mongoose");
 const validator = require("validator");
