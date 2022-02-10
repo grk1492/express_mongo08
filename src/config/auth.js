@@ -1,4 +1,4 @@
-// Crée par Joachim Zadi le 15/04/2020 à 17:50
+// Auth module
 // ===========================================
 
 module.exports = {
