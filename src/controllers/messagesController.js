@@ -1,5 +1,4 @@
-// Crée par Joachim Zadi le 17/04/2020 à 13:40
-// ===========================================
+
 
 /*CHARGEMENT DU MODEL Message*/
 const Message = require("../models/messageModel");
