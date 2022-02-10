@@ -1,5 +1,3 @@
-// Crée par Joachim Zadi le 15/04/2020 à 13:20
-// ===========================================
 
 const express = require("express");
 const router = express.Router();
