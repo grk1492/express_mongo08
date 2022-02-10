@@ -1,5 +1,3 @@
-// Crée par Joachim Zadi le 17/04/2020 à 13:55
-// ===========================================
 
 /*CHARGEMENT DU MODEL Message*/
 const User = require('../models/userModel')
