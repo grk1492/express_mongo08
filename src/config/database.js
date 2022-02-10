@@ -2,7 +2,7 @@ const mongoose = require('mongoose')
 
 //Le serveur MongoDB local
 const server = 'localhost:27017'
-const database = 'internshipDB'
+const database = ''
 
 /**
  * Cette classe permet de realisée une connection à la base de données MongoDB
